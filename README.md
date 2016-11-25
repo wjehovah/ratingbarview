@@ -45,7 +45,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ```dsl
     dependencies {
-            compile 'com.github.wjehovah:ratingbarview:1.0'
+            compile 'com.github.wjehovah:ratingbarview:-SNAPSHOT'
     }
 ```
 一个简单的评分view 上传到 jitpack方便使用，[代码来自 eclipse_xu](http://www.jianshu.com/p/06c321b7f19b)，感谢原作者
