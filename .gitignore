@@ -38,3 +38,8 @@ captures/
 
 # Keystore files
 *.jks
+<<<<<<< 3f2c6802e4005d4368a47c88167e17133a9d9c13
+=======
+/.idea
+/.DS_Store
+>>>>>>> first commit
