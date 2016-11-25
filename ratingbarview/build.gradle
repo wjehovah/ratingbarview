@@ -1,5 +1,8 @@
+plugins {
+    id "com.github.dcendents.android-maven" version "1.5"
+}
 apply plugin: 'com.android.library'
-
+group = 'com.github.wjehovah'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
@@ -8,7 +11,7 @@ android {
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
-        archivesBaseName = "RatingBarView-$versionName"
+        archivesBaseName = "RatingBarView"
     }
     buildTypes {
         release {
